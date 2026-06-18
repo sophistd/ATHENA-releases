@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ATHENA Updates</title>
-    <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.4</link>
+    <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.5</link>
     <description>ATHENA app updates</description>
     <language>en</language>
     <item>
-      <title>Version 2026.06.18.4</title>
-      <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.4</link>
-      <sparkle:version>2026061804</sparkle:version>
-      <sparkle:shortVersionString>2026.06.18.4</sparkle:shortVersionString>
+      <title>Version 2026.06.18.5</title>
+      <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.5</link>
+      <sparkle:version>2026061805</sparkle:version>
+      <sparkle:shortVersionString>2026.06.18.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
 
 
-      <sparkle:releaseNotesLink>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.4</sparkle:releaseNotesLink>
-      <pubDate>Thu, 18 Jun 2026 16:36:53 +0000</pubDate>
-      <enclosure url="https://github.com/sophistd/ATHENA-releases/releases/download/v2026.06.18.4/ATHENA-2026.06.18.4.zip"
-                 sparkle:edSignature="xQ7gRuwz1FTCJH/6VjyyP1JySxpq9ZuVpzXx5pyU+Y0kOZ+BRNkUfy/oHy41p1xJpxowMYiZmDbQddf0C3A0Ag==" length="43500505"
+      <sparkle:releaseNotesLink>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.5</sparkle:releaseNotesLink>
+      <pubDate>Thu, 18 Jun 2026 16:46:06 +0000</pubDate>
+      <enclosure url="https://github.com/sophistd/ATHENA-releases/releases/download/v2026.06.18.5/ATHENA-2026.06.18.5.zip"
+                 sparkle:edSignature="W1OtIvSIhOowF12XVAkj/r87OaNDfc6WwG4RSyBF+uZQy/i839E6iJlON9UdqxRtqspoOlmf83XyWksAc5TrBg==" length="43500987"
                  type="application/octet-stream" />
     </item>
   </channel>
