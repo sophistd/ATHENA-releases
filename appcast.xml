@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ATHENA Updates</title>
-    <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.5</link>
+    <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.22.1</link>
     <description>ATHENA app updates</description>
     <language>en</language>
     <item>
-      <title>Version 2026.06.18.5</title>
-      <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.5</link>
-      <sparkle:version>2026061805</sparkle:version>
-      <sparkle:shortVersionString>2026.06.18.5</sparkle:shortVersionString>
+      <title>Version 2026.06.22.1</title>
+      <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.22.1</link>
+      <sparkle:version>2026062201</sparkle:version>
+      <sparkle:shortVersionString>2026.06.22.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
 
 
-      <sparkle:releaseNotesLink>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.18.5</sparkle:releaseNotesLink>
-      <pubDate>Thu, 18 Jun 2026 16:46:06 +0000</pubDate>
-      <enclosure url="https://github.com/sophistd/ATHENA-releases/releases/download/v2026.06.18.5/ATHENA-2026.06.18.5.zip"
-                 sparkle:edSignature="W1OtIvSIhOowF12XVAkj/r87OaNDfc6WwG4RSyBF+uZQy/i839E6iJlON9UdqxRtqspoOlmf83XyWksAc5TrBg==" length="43500987"
+
+      <pubDate>Mon, 22 Jun 2026 23:37:48 +0000</pubDate>
+      <enclosure url="https://github.com/sophistd/ATHENA-releases/releases/download/v2026.06.22.1/ATHENA-2026.06.22.1.zip"
+                 sparkle:edSignature="jeQR8AZaACYNvN2Od/uV/o2kZTkMBl3HnvQmN7cX21pMm25woaPMbS1wlyjGU5eKC5bUTIJUJTvSbkC/RlAkDA==" length="99950482"
                  type="application/octet-stream" />
     </item>
   </channel>
