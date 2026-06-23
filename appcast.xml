@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>ATHENA Updates</title>
-    <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.22.1</link>
+    <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.23</link>
     <description>ATHENA app updates</description>
     <language>en</language>
     <item>
-      <title>Version 2026.06.22.1</title>
-      <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.22.1</link>
-      <sparkle:version>2026062201</sparkle:version>
-      <sparkle:shortVersionString>2026.06.22.1</sparkle:shortVersionString>
+      <title>Version 2026.06.23</title>
+      <link>https://github.com/sophistd/ATHENA-releases/releases/tag/v2026.06.23</link>
+      <sparkle:version>2026062300</sparkle:version>
+      <sparkle:shortVersionString>2026.06.23</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
 
 
 
-      <pubDate>Mon, 22 Jun 2026 23:37:48 +0000</pubDate>
-      <enclosure url="https://github.com/sophistd/ATHENA-releases/releases/download/v2026.06.22.1/ATHENA-2026.06.22.1.zip"
-                 sparkle:edSignature="jeQR8AZaACYNvN2Od/uV/o2kZTkMBl3HnvQmN7cX21pMm25woaPMbS1wlyjGU5eKC5bUTIJUJTvSbkC/RlAkDA==" length="99950482"
+      <pubDate>Tue, 23 Jun 2026 09:46:52 +0000</pubDate>
+      <enclosure url="https://github.com/sophistd/ATHENA-releases/releases/download/v2026.06.23/ATHENA-2026.06.23.zip"
+                 sparkle:edSignature="kO9yqNUCHJM6awga0tFdrJNH9zzXu07uFaBwkVyKMms3oFEFQR95jg0gPz/UVOruB5us7ql7ikK2KWFAG7kLAQ==" length="59881451"
                  type="application/octet-stream" />
     </item>
   </channel>
